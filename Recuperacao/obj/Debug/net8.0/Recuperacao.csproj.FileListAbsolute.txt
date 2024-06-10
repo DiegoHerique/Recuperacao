@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\bin\Debug\net8.0\Recuperacao.exe
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\bin\Debug\net8.0\Recuperacao.deps.json
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\bin\Debug\net8.0\Recuperacao.runtimeconfig.json
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\bin\Debug\net8.0\Recuperacao.dll
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\bin\Debug\net8.0\Recuperacao.pdb
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\Recuperacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\Recuperacao.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\Recuperacao.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\Recuperacao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\Recuperacao.dll
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\refint\Recuperacao.dll
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\Recuperacao.pdb
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\Recuperacao.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Recuperacao\Recuperacao\obj\Debug\net8.0\ref\Recuperacao.dll
